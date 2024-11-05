@@ -14,6 +14,6 @@ else: (tombol C)
 print("SKS maksimum yang dapat diambil:", sks_maks)
 
 #Pengujian Path Coverage:
-Jalur 1: input ipk < 2.75 (tombol A), sks_maks = 16
-Jalur 2: input 2.75 <= ipk < 4.0 (tombol B), sks_maks = 22
-Jalur 3: input ipk < 4.0 (tombol c), sks_maks = lebih dari 22
+#Jalur 1: input ipk < 2.75 (tombol A), sks_maks = 16
+#Jalur 2: input 2.75 <= ipk < 4.0 (tombol B), sks_maks = 22
+#Jalur 3: input ipk < 4.0 (tombol c), sks_maks = lebih dari 22
